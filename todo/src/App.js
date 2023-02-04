@@ -85,7 +85,7 @@ function App() {
     <h1>React ToDo - List</h1>
     </div>
     <div className="form-todo">
-    <p>Formulário</p>
+    {/* <p>Formulário</p> */}
     <h2>Inisira a sua próxima tarefa:</h2>
       <form onSubmit={handleSubmit}>
         <div className="form-control">
